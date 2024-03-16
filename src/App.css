@@ -1,0 +1,15 @@
+* {
+  background-color: #272727;
+  /* color: rgb(225, 204, 204); */
+}
+
+#app-container {
+  width: 100%;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  gap: 20px;
+
+  /* background-color: aliceblue; */
+}
