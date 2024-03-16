@@ -1,7 +1,4 @@
 import { useState } from "react";
-import { Stack, HStack, VStack } from "@chakra-ui/react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import "./App.css";
 import Navbar from "./compnents/Navbar/Navbar";
 import Home from "./compnents/Home/Home";
